@@ -7,8 +7,11 @@ cessing and execution, we provide GitHub open-source codes and protocols support
 
 
 
-wkTuple: A Web Interface for Alignment-Free Multiple Sequence Analysis [link]
+wkTuple: A Web Interface for Alignment-Free Multiple Sequence Analysis.
+         https://saeidamiri1.github.io/wktuple
 
-faktuple: A R library to run Multiple Sequence Free- Alignment via k-tuple [link] 
+faktuple: A R library to run Multiple Sequence Free- Alignment via k-tuple.
+          https://sites.google.com/site/saeidamiri1/codes/faktuple
+
 
 Cite: Amiri, S., and Ivo, D. (2017). A toolkit for Multiple Free-Alignment Sequence Analysis via R and web-interface. 
